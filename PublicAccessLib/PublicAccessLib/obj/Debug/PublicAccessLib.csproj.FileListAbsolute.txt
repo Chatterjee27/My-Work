@@ -1,0 +1,6 @@
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\PublicAccessLib\PublicAccessLib\bin\Debug\PublicAccessLib.dll
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\PublicAccessLib\PublicAccessLib\bin\Debug\PublicAccessLib.pdb
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\PublicAccessLib\PublicAccessLib\obj\Debug\PublicAccessLib.csprojAssemblyReference.cache
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\PublicAccessLib\PublicAccessLib\obj\Debug\PublicAccessLib.csproj.CoreCompileInputs.cache
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\PublicAccessLib\PublicAccessLib\obj\Debug\PublicAccessLib.dll
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\PublicAccessLib\PublicAccessLib\obj\Debug\PublicAccessLib.pdb
