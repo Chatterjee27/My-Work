@@ -1,0 +1,7 @@
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConDataTypes\ConDataTypes\bin\Debug\ConDataTypes.exe.config
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConDataTypes\ConDataTypes\bin\Debug\ConDataTypes.exe
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConDataTypes\ConDataTypes\bin\Debug\ConDataTypes.pdb
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConDataTypes\ConDataTypes\obj\Debug\ConDataTypes.csprojAssemblyReference.cache
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConDataTypes\ConDataTypes\obj\Debug\ConDataTypes.csproj.CoreCompileInputs.cache
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConDataTypes\ConDataTypes\obj\Debug\ConDataTypes.exe
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConDataTypes\ConDataTypes\obj\Debug\ConDataTypes.pdb
