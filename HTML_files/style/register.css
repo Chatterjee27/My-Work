@@ -1,0 +1,50 @@
+section .main{
+    width:70%;
+    border-left: 4px double green;
+    border-right: 4px double green;
+    margin-left: 200px;
+    height:650px;
+}
+
+.register{
+    text-align: center;
+}
+
+input[type="text"]{
+    width:50%;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 4px;
+}
+input[type="number"]{
+    width:50%;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 4px;
+}
+input[type="email"]{
+    width:50%;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 4px;
+}
+button{
+    width:20%;
+    height: 40px;
+    border-radius: 5px;
+}
+button:hover{
+    width:20%;
+    height: 40px;
+    border-radius: 5px;
+    background-color: greenyellow;
+    border:2px solid green;
+    color: white;
+    font-weight: hover;
+}
+input:invalid{
+    border: 2px solid rebeccapurple;
+}
+input:valid{
+    border: 2px solid greenyellow;
+}

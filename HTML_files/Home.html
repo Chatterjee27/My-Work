@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Home_Page</title>
+        <link rel="stylesheet" href="style/stylesh.css">
+        <link rel="stylesheet" href="style/Home.css">
+        <link rel="stylesheet" href="style/mmm.css">
+           <style>
+           /* body {background-color: powderblue;}*/
+            h1   {color: blue;}
+           /* p    {color: red;}*/
+            div+p{
+                background-color: blue;
+                font-size: 20px;
+                font-style:oblique
+            }
+
+            [href]{
+                text-decoration: none;
+                color: rgb(240, 74, 14);
+            }
+            [href$="in"]
+            {
+                font-color: darkslategray;
+            }
+
+            [href^="https"]{
+                font-family: fantasy;
+            }
+
+            [type]{
+                background-color: goldenrod;
+            }
+
+            [type="text"]{
+                background-color:khaki;
+            }
+
+            table tr td:first-of-type{
+                background-color: mediumseagreen;
+            }
+
+            table tr td:last-of-type{
+                background-color: mediumseagreen;
+            }
+
+            table tr:first-of-type{
+                background-color: lightcoral;
+            }
+
+            table tr td{
+                background-color: mediumaquamarine;
+            }
+
+            table tr td:nth-child(2){
+                background-color: navajowhite;
+            }   
+            
+            table{
+                border-radius: 5px ;
+            }
+          /*  table tr th{
+                 border-left: 2px ;
+            }*/
+
+            table tr th:first-of-type{
+                 border-top-left-radius: 2 px;
+                  background-color: peru;
+            }
+
+            table tr th:last-of-type{
+                border-top-right-radius: 2 px;
+                background-color: peru;
+            }
+
+            table tr:last-of-type td:first-of-type{
+                    border-bottom-left-radius: 2px;
+                    background-color: peru;
+            }
+            table tr:last-of-type td:last-of-type{
+                border-bottom-right-radius: 2px;
+                  
+                background-color: peru;
+            }
+
+            [type=text]:valid{
+                background-color: khaki ;
+            }
+            table:hover{
+                background-color: lawngreen;
+                
+            }
+            @media screen and (max-width: 800px)
+            body{
+                background-color:white;
+            }
+            table{
+                background-color: brown;
+            }
+
+        </style>
+    </head>
+    <body>
+        
+        <section id="headersection">
+             <header></header>
+             <nav>
+                 <ul>
+                     <li><a href="#" id="home">Home</a></li>
+                     <li><a href="#">About us</a></li>
+                     <li><a href="#">Contact</a></li>
+                     <li><a href="#">Register</a></li>
+                     <li><a href="#" id=login>login</a></li>
+                 </ul>
+             </nav>
+        </section>  
+        
+        <div>
+           <p>This is Football</p>
+            <h1>Heading1</h1>
+        </div>
+        <p>This is Paragraph</p>
+       
+        <span>This span tag</span><br/>
+        <a href="https://www.microsoft.com/en-in?">Microsoft</a>
+        <a href="https://www.udemy.com/">Udemy</a>
+        <a href="https://www.amazon.in/">Amazon</a>
+        <input type="text">
+        <input type="number">
+        <input type="passwoed">
+        <input type="text">
+        <input type="text">
+        <input type="text"> <br/>
+       
+        <section id="main">
+            <aside>Aside</aside>
+            <article>Article</article>
+        </section>
+        <table border="2px">
+            <tr>
+                <th>EmpName</th>
+                <th>EmpId</th>
+                <th>City</th>
+            </tr>
+            <tr>
+                <td>khala</td>
+                <td>100</td>
+                <td>Guardijala</td>
+            </tr>
+            <tr>
+                <td>Temu</td>
+                <td>101</td>
+                <td>Sinaloa</td>
+            </tr>
+            <tr>
+                <td>Mustafa</td>
+                <td>102</td>
+                <td>Tijuana</td>
+            </tr>
+            <tr>
+                <td>bullet</td>
+                <td>103</td>
+                <td>Nicaragua</td>
+            </tr>
+        </table>
+        <footer class="register">
+                <p>Zensar</p>
+        </footer>
+       
+    </body>
+</html>

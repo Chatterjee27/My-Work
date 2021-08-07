@@ -1,0 +1,111 @@
+@font-face{
+    font-family:Reey;
+    src:url('../fonts/Reey-Regular.otf');
+}
+
+@media screen and (max-widyh:800px){
+   /* #headersection  header{
+        
+        background-color: white;
+        color: black;
+        background-image: none;
+
+    }
+    .headertext{
+        font-size: 1.5em;
+        font-family: 'Courier New', Courier, monospace;
+        text-shadow:0;
+    }*/
+    body{
+        background-color: white;
+    }
+
+} 
+
+body{
+    background-color: tomato;
+}
+#headersection  header{
+    height: 120px;
+    width:90%;
+    background-image: linear-gradient(to bottom,grey,white);
+    margin: 60px;
+    margin-top: 40px;
+    margin-bottom: 2px;
+    margin-left: 60px;
+    background: url(../images/Zensarjpg.jpg) left center no-repeat hsla(55,16%,53%,0.6);
+    border-radius: 5px;
+}
+#headersection nav{
+    height: 70px;
+    width:90%;
+    /*border-top:4px double gold ;
+    border-bottom: 4px solid gold; */
+    background-image: linear-gradient(to bottom,grey,white);
+    margin: 60px;
+    margin-left: 60px;
+    margin-top: 0;
+    background-color: #4c4b40;
+    border-radius: 5px;
+    padding-top: 10px;
+
+}
+nav ul li{
+    display: inline;
+    margin-right: 10px;
+    font-family: sans-serif;
+    font-size: 1.5em;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: ivory;
+
+}
+nav ul li a:hover{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+nav ul li a :nth-child(4){
+    text-alig
+}
+/*#login{
+    margin-left: 545px;
+}*/
+/* #login{
+    margin-left: 650px;
+}  */
+ 
+/* nav ul li:last-of-type{
+    margin-right:400px;
+} */
+/* nav ul li:nth-child(4n){
+    margin-left:500px;
+} */
+ 
+nav ul li:nth-child(4){
+    margin-left:650px;
+    /* float: left; */
+}
+.pagefooter{
+    height: 80px;
+    width:90%;
+    border-top: 4px double green;
+    margin-left: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    text-align: right;
+    padding-right: 10px;
+    clear: both;
+ 
+}
+.headertext{
+    position: absolute;
+    left:750px;
+    top:60px;
+    font-family:Reey;
+    font-size: 2em;
+    color: rgb(46, 134, 193);
+    text-shadow: -5px -5px 0.1px #ccc;
+}

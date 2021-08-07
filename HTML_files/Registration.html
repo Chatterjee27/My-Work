@@ -1,0 +1,83 @@
+<html>
+    <head>
+        <title>Registration_Page</title>
+        <title>Finding_Hotel</title>
+        <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+    
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+    
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+    </head>
+
+    <body>
+        <fieldset>
+        <h1 style="text-align: center;">Registration Form</h1>
+        <div class="conatiner">
+            <div class="row">
+                <div class="col-md-5"></div>
+                <div class="col-md-6">
+                    <form action="connect.php" method="POST">
+                         <div class="form-group">
+                            <label for="fname">FirstName:</label><br>
+                            <input type="text" id="fname" placeholder="enter your first name" required>
+                        </div>
+
+                         <div class="form-group">
+                            <label for="lname">LastName:</label><br>
+                            <input type="text" id="lname" placeholder="enter your last name" required> 
+                        </div>
+
+                        <div class="form-group">
+                            <lable for="age">Age:</lable><br>
+                            <input type="number" min="16" id="age" placeholder="enter your age">
+                        </div>
+
+                        <div class="form-group"> 
+                            <lable for="email">Email:</lable><br>
+                            <input type="email" id="email" placeholder="enter your email" required>
+                        </div>
+
+                        <div class="form-group">
+                            <lable for="recovery email">Recovery Email:</lable><br>
+                            <input type="email" id="recovery email" placeholder="enter the email" required>
+                        </div>
+
+                        <div class="form-group">
+                            <lable for="phno">Ph no.</lable><br>
+                            <input type="tel" id="phno" placeholder="enter your 10 digits phn no" required>
+                        </div>
+
+                        <div class="form-group">
+                            <lable for="password">password</lable><br>
+                            <input type="password" id="password" placeholder="enter your password" required>
+                        </div>
+
+
+                        <div class="form-group">
+                            <lable for ="gender">Gender:</lable><br>
+                            <input type="radio" id="male" name="gender" value="male">
+                            <label for="male">Male</label><br>
+                            <input type="radio" id="female" name="gender" value="female">
+                            <label for="female">Female</label><br>
+                            <input type="radio" id="other" name="gender" value="other">
+                            <label for="other">Other</label><br>
+                        </div>
+
+                        <div class="form-group">
+                            <lable for="country">Country:</lable><br>
+                            <input type="search" id="country" required>
+                        </div>
+
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary btn-sm">Submit</button>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </fieldset>
+    </body>
+</html>

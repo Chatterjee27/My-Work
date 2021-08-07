@@ -1,0 +1,74 @@
+body{
+    background-image: url(../images/babla.jpg);
+    background-position: center;
+    background-color: gray;
+    text-align: center ;
+    margin-top: 10px;
+}
+
+#headersection{
+    border: rgb(54, 34, 3) 2px solid;
+    padding: 10px;
+}
+#headersection nav{
+    height: 70px;
+    background-color:brown;
+    margin-top: 2px;
+    border-top: rgb(54, 34, 3) 2px solid;
+    border-radius: 4px;;
+    font-size: x-large;
+    font-style: arial;
+    padding-top: 5px;
+
+}
+#headersection header{
+    height: 140px;
+    background-color:wheat;
+    background-image: url(../images/Zensarjpg.jpg) ;
+    margin-top: 2px;
+    border: rgb(54, 34, 3) 2px solid;
+    font-size: 40 px;
+    font-style: italic;
+    padding: 10px;
+}
+footer{
+    column-count: auto;
+    background-color:wheat;
+    margin-top: 10px;
+    font-size: x-large;
+    font-style: italic;
+    padding: 10px;
+    border: 3px solid green;
+    text-align: right;
+
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul  li a{
+    text-decoration: none;
+    color: rosybrown
+}
+nav ul li a{
+
+    text-align: right;
+}
+
+#home{
+    text-decoration: underline;
+}
+
+
+nav ul li a:last-of-type{
+    margin-left: 50px;
+}
+
+nav ul li a:hover{
+
+    border:2px solid whitesmoke;
+
+}
+

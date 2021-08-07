@@ -1,0 +1,33 @@
+#main aside{
+    border-right:2px double green;
+    
+    height: 600px;
+    width:25%;
+    margin-left: 60px;
+    float: left;
+    margin-top: 0px;
+
+   /* background-image: linear-gradient(to bottom, left-top, color-stop(0.70,#00aaaa), color-stop(0.30,#432100));*/
+    background-image: linear-gradient(to bottom, red,orange);
+}
+#main article{
+    margin-top: 0px;
+    height: 600px;
+    float: left;
+    width:65%;
+    padding-left: 10px;
+    padding-top: 10px;
+    text-align: justify;
+    column-count: 3;
+}
+#main article
+{
+    background:url('../images/images.jpg');
+    
+}
+@media screen and (max-width: 800px)
+       {
+        body{
+            background-color:white;
+        }  
+       } 

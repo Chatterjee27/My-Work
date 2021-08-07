@@ -1,0 +1,23 @@
+ #main aside{
+    
+    background-position: center;
+    background-color: cornsilk;
+    height:143px;
+    border-right :4px double black;
+    border: 2px solid greenyellow;
+    
+    width:25%;
+    mergin-left: 60px;
+    float: left;
+}
+
+ #main article{
+    height: 150px;
+    background-image: url(../images/download.jpg);
+    border:2px solid black;
+    float: left;
+    width:72%;
+
+}
+
+ 

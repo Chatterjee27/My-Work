@@ -1,0 +1,7 @@
+D:\FrameWork\ConDataTypes\ConDataTypes\bin\Debug\ConDataTypes.exe.config
+D:\FrameWork\ConDataTypes\ConDataTypes\bin\Debug\ConDataTypes.exe
+D:\FrameWork\ConDataTypes\ConDataTypes\bin\Debug\ConDataTypes.pdb
+D:\FrameWork\ConDataTypes\ConDataTypes\obj\Debug\ConDataTypes.csprojAssemblyReference.cache
+D:\FrameWork\ConDataTypes\ConDataTypes\obj\Debug\ConDataTypes.csproj.CoreCompileInputs.cache
+D:\FrameWork\ConDataTypes\ConDataTypes\obj\Debug\ConDataTypes.exe
+D:\FrameWork\ConDataTypes\ConDataTypes\obj\Debug\ConDataTypes.pdb

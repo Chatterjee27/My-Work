@@ -1,0 +1,6 @@
+D:\FrameWork\PublicAccessLib\PublicAccessLib\bin\Debug\PublicAccessLib.dll
+D:\FrameWork\PublicAccessLib\PublicAccessLib\bin\Debug\PublicAccessLib.pdb
+D:\FrameWork\PublicAccessLib\PublicAccessLib\obj\Debug\PublicAccessLib.csprojAssemblyReference.cache
+D:\FrameWork\PublicAccessLib\PublicAccessLib\obj\Debug\PublicAccessLib.csproj.CoreCompileInputs.cache
+D:\FrameWork\PublicAccessLib\PublicAccessLib\obj\Debug\PublicAccessLib.dll
+D:\FrameWork\PublicAccessLib\PublicAccessLib\obj\Debug\PublicAccessLib.pdb

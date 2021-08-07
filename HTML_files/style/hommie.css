@@ -1,0 +1,116 @@
+  
+
+#headersection   header { 
+
+height : 150px ; 
+
+width : 90% ; 
+
+  
+
+margin-top : 40px  ; 
+
+margin-left :  60px ; 
+
+margin-bottom : 2px ; 
+
+} 
+
+#headersection   nav { 
+
+height : 70px ; 
+
+width : 90% ; 
+
+border-top : 4px   double   green ; 
+
+border-bottom : 4px   double   green ; 
+
+margin-left :  60px ; 
+
+margin-top :  0 ; 
+
+  
+
+} 
+
+nav   ul   li { 
+
+     display :  inline ; 
+
+     margin-right :  10px ; 
+
+     font-family :  Verdana , Geneva,  Tahoma ,  sans-serif ; 
+
+     font-size :  1.5em ; 
+
+    
+
+} 
+
+nav   ul   li   a { 
+
+     text-decoration : none ; 
+
+    
+
+} 
+
+
+
+  
+
+  /* #login{ 
+
+    margin-left: 650px; 
+
+}  */ 
+
+  
+
+/* nav ul li:last-of-type{ 
+
+    margin-right:400px; 
+
+} */ 
+
+/* nav ul li:nth-child(4n){ 
+
+    margin-left:500px; 
+
+} */ 
+
+  
+
+nav   ul   li:nth-child ( 4 ){ 
+
+     margin-left : 650px ; 
+
+     /* float: left; */ 
+
+} 
+
+.pagefooter { 
+
+     height :  80px ; 
+
+     width : 90% ; 
+
+     border-top :  4px   double   green ; 
+
+     margin-left :  60px ; 
+
+     font-family :  Verdana , Geneva,  Tahoma ,  sans-serif ; 
+
+     font-size :  1em ; 
+
+     text-align :  right ; 
+
+     padding-right :  10px ; 
+
+     clear :  both ; 
+
+  
+
+} 
+
