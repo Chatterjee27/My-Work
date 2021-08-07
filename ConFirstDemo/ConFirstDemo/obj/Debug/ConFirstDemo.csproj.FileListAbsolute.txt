@@ -1,0 +1,7 @@
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConFirstDemo\ConFirstDemo\bin\Debug\ConFirstDemo.exe.config
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConFirstDemo\ConFirstDemo\bin\Debug\ConFirstDemo.exe
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConFirstDemo\ConFirstDemo\bin\Debug\ConFirstDemo.pdb
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConFirstDemo\ConFirstDemo\obj\Debug\ConFirstDemo.csprojAssemblyReference.cache
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConFirstDemo\ConFirstDemo\obj\Debug\ConFirstDemo.csproj.CoreCompileInputs.cache
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConFirstDemo\ConFirstDemo\obj\Debug\ConFirstDemo.exe
+E:\DotNetFreshersBatchJul2020\DotNetConsoleApps\ConFirstDemo\ConFirstDemo\obj\Debug\ConFirstDemo.pdb
